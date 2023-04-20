@@ -90,16 +90,15 @@ li{
 .log{
     text-align: center;
 }
-#user-name{
+
+.name{
     text-align: center;
     margin-left: 350px;
     font-size: 20px;
     font-family: 'Black Han Sans', sans-serif;
     font-family: 'Dongle', sans-serif;
     font-family: 'Gaegu', cursive;
-}
-.name{
-    text-align: center;
+
 }
 #id{
     text-align: center;
